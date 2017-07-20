@@ -13,9 +13,6 @@
 
   roles:
     - base
-    - avahi
     - db
-    - rabbitmq
     - web
-    - celery
     - nginx
