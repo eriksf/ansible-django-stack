@@ -13,6 +13,7 @@
 
   roles:
     - base
+    - avahi
     - db
     - web
     - nginx
